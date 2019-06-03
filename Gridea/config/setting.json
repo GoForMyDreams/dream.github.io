@@ -1,0 +1,26 @@
+{
+  "config": {
+    "branch": "master",
+    "domain": "https://dream.github.io",
+    "email": "w707298@qq.com",
+    "platform": "github",
+    "repository": "dream.github.io",
+    "token": "d772e5c3f7dcf98170eac8178543e2c3901003ef",
+    "username": "GoForMyDreams"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
